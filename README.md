@@ -18,4 +18,4 @@ An adaptable professional with a strong background in Engineering and Finance, I
 
 **jamalncmorris@gmail.com**
 
-<img src='/static/video/code.gif'></img>
+<!-- <img src='/static/video/code.gif'></img> -->
