@@ -3,9 +3,9 @@
 I was born in September 1997, in the United Kingdom. My passion for problem-solving led me to the world of coding, where I honed my skills in Python and JavaScript.
 
 ## Technology Stack
- *Database*: PostgreSQL
- *Backend*: Django
- *Frontend*: React & TailwindCSS
+* *Database*: PostgreSQL
+* *Backend*: Django
+* *Frontend*: React & TailwindCSS
 
 ## My Expertise
 
