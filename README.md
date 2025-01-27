@@ -1,4 +1,4 @@
-# Jamal N.C Morris
+# Jamal Noah Chester-Morris
 
 Python and JavaScript Developer | Full-Stack Software Engineer | Technology Enthusiast 
 
@@ -25,6 +25,3 @@ I am deeply passionate about technology, finance, and the intersection of these 
 - Manufacturing Technology 
 - Art, Design, and Photography 
 - Geo-politics & International Trade 
-
-
-**28-01-2025**
