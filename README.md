@@ -25,3 +25,6 @@ I am deeply passionate about technology, finance, and the intersection of these 
 - Manufacturing Technology 
 - Art, Design, and Photography 
 - Geo-politics & International Trade 
+
+
+**28-01-2025**
